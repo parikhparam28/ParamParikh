@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact: **foodie and love technology.**
+- ⚡ Fun fact: **foodie, love technology and aiming to solve problems helpful in real world.**
 
 ## 🚀 Languages and Tools:
 
