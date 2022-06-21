@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 A 3rd year undergraduate at LNMIIT
+- 🔭 A final year undergraduate student at LNMIIT
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
